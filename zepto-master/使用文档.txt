@@ -1,0 +1,1 @@
+zepto:移动端事件的使用，tap（touch）事件发生时，也会触发click事件，需要定制没有tap模块的zepto压缩包

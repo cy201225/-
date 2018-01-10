@@ -1,0 +1,35 @@
+移动端滑动触摸插件 http://www.swiper.com.cn/
+全屏滚动插件 http://www.dowebok.com/
+css框架 开源 http://www.oschina.net/project/tag/310/css-framework
+github网 https://github.com/
+字体图标插件 http://fontawesome.io/icon/compress/
+bootstrap 中文网 http://www.bootcss.com/
+另一个jquery  http://www.css88.com/doc/zeptojs_api/#Touch events
+中国首个开源跨屏前端框架 Amaze UI  http://amazeui.org/
+移动端布局框架 
+	MUI  http://dev.dcloud.net.cn/mui/window/
+	WeUI  https://github.com/Tencent/weui/blob/master/README_cn.md
+
+图    Echarts插件
+旋转插件 circlr插件
+
+字体图标 http://www.iconfont.cn/
+nec 最好的css样式  清除浏览器默认样式
+normalize  统一默认样式
+
+html5shiv.js 让ie678支持html
+respond.min.js 用于为 IE6-8 以及其它不支持 CSS3 Media Queries 的浏览器提供媒体查询的 min-width 和 max-width 特性，实现响应式网页设计（Responsive Web Design）。
+
+引入respond.min.js，但要在css的后面（越早引入越好，在ie下面看到页面闪屏的概率就越低，因为最初css会先渲染出来，如果respond.js加载得很后面，这时重新根据media query解析出来的css会再改变一次页面的布局等，所以看起来有闪屏的现象）
+
+mescroll  精致的下拉插件
+
+
+媒体查询适配所有flexible.debug.js
+
+建议使用压缩版的js文件
+插件之间的依赖关系
+
+
+
+一般使用的插件推荐小而精。过于全的插件可能会导致某段代码出现错误，所以尽可能的使用多个针对某个功能的插件即可
